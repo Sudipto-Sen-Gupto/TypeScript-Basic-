@@ -1,5 +1,5 @@
 
-// destructuring for array and object
+
 
 const myDetails={
           Name:'Gaurav Sen Gupto',

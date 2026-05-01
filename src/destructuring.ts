@@ -24,5 +24,5 @@ console.log(CSE_1101);
 
 const arr=['Cat','Dog','Mare','Buck','Pig']
 //  console.log(arr[2]);
-const[,,,d,]=arr
+const[,,,d,]=arr  //skip
 console.log(d);
